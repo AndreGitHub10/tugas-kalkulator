@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Tugas Kalkulator</string>
+    <string-array name="operasi">
+        <item>Pilih Operasi</item>
+        <item>Tambah</item>
+        <item>Kurang</item>
+        <item>Kali</item>
+        <item>Bagi</item>
+    </string-array>
+</resources>
